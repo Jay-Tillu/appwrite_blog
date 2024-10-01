@@ -9,11 +9,17 @@ import Login from "./Login.jsx";
 import PostCard from "./PostCard.jsx";
 import PostForm from "./Post-Form/PostForm.jsx";
 import AuthLayout from "./AuthLayout.jsx";
+import Button from "./Button.jsx";
+import Input from "./Input.jsx";
+import Select from "./Select.jsx";
 
 export {
   Header,
   Footer,
+  Button,
   Container,
+  Input,
+  Select,
   Logo,
   LogoutBtn,
   RTE,
