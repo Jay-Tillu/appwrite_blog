@@ -3,5 +3,6 @@ import Footer from "./Footer/Footer.jsx";
 import Container from "../components/Container/Container.jsx";
 import Logo from "./Logo.jsx";
 import LogoutBtn from "./Header/LogoutBtn.jsx";
+import RTE from "./RTE.jsx";
 
-export { Header, Footer, Container, Logo, LogoutBtn };
+export { Header, Footer, Container, Logo, LogoutBtn, RTE };
