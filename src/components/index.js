@@ -4,5 +4,20 @@ import Container from "../components/Container/Container.jsx";
 import Logo from "./Logo.jsx";
 import LogoutBtn from "./Header/LogoutBtn.jsx";
 import RTE from "./RTE.jsx";
+import Signup from "./Signup.jsx";
+import Login from "./Login.jsx";
+import PostCard from "./PostCard.jsx";
+import PostForm from "./Post-Form/PostForm.jsx";
 
-export { Header, Footer, Container, Logo, LogoutBtn, RTE };
+export {
+  Header,
+  Footer,
+  Container,
+  Logo,
+  LogoutBtn,
+  RTE,
+  Signup,
+  Login,
+  PostCard,
+  PostForm
+};
